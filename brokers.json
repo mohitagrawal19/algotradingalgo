@@ -1,0 +1,12 @@
+{
+  "fyers": {
+    "client_id": "YOUR_FYERS_CLIENT_ID",
+    "secret_key": "YOUR_FYERS_SECRET_KEY",
+    "access_token": "YOUR_FYERS_ACCESS_TOKEN"
+  },
+  "zerodha": {
+    "client_id": "YOUR_ZERODHA_CLIENT_ID",
+    "secret_key": "YOUR_ZERODHA_SECRET_KEY",
+    "access_token": "YOUR_ZERODHA_ACCESS_TOKEN"
+  }
+}
